@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.ujjawalapps.mausam",
+      "sha256_cert_fingerprints":
+      ["60:7D:2A:87:B9:7C:69:D5:36:95:53:59:3E:5C:1B:28:29:68:D4:17:6F:99:82:3F:99:AA:39:17:66:22:FF:0B"]
+    }
+  }]
